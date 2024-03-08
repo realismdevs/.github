@@ -1,1 +1,1 @@
-# .github
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&pause=1000&color=FFFFFF&center=true&multiline=true&random=false&width=435&lines=Welcome+to+Real+Group;Explore+tech;Try+new+things)](https://git.io/typing-svg)
