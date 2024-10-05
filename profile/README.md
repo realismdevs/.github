@@ -1,5 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=5807BF&center=true&width=435&lines=Trinta;+Solve+a+problem;Develop+the+future)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&pause=1000&color=FFFFFF&center=true&random=false&width=1920&lines=Realism+Devs;Explore+tech;Try+new+things)](https://git.io/typing-svg)
-
-# Realism Devs🚀
-Com a Realism Dev, sua empresa entra na web!
+# Trinta🚀
+Using tech to make a new world.
